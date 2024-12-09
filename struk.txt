@@ -1,0 +1,9 @@
+========| Struk Pesanan |========
+1. ayam bakar x 1 | Harga: Rp12.000,00
+2. nasi padang x 3 | Harga: Rp45.000,00
+3. es teh x 4 | Harga: Rp20.000,00
+Total Sebelum Diskon: Rp77.000,00
+Diskon: - Rp0,00
+Pajak (10%): + Rp7.700,00
+Total Akhir: Rp84.700,00
+===============================

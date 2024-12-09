@@ -1,0 +1,10 @@
+Diskon,minggu,5000.0,5.0
+Diskon,weekend,7000.0,5.0
+Makanan,ayam bakar,12000.0
+Makanan,nasi padang,15000.0
+Makanan,rendang,20000.0
+Makanan,sate kambing,25000.0
+Minuman,es teh,5000.0
+Minuman,jus jeruk,10000.0
+Minuman,jus mangga,12000.0
+Minuman,kopi,7000.0
